@@ -1,0 +1,61 @@
+.navbar-brand img {
+    height: 4.5em;
+    width: auto;
+}
+
+.col-md-4 img {
+    width: 243px;
+    align-items: center;
+    height: 95%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.col-md-4 {
+    text-align: center;
+}
+
+.fab  {
+    color: blue;
+}
+
+.col-md-4 h4 {
+    font-size: 20px;
+}
+
+.col-md-6 h4 {
+    text-align: center;
+}
+
+
+.col-md-4 p {
+    font-size: 14px;
+}
+
+h2 {
+    text-align: center;
+}
+
+.jumbotron-fluid {
+    background-image: url("https://rateyourseats.com/shared/Raymond-James-Stadium-Section-132-Row-WC-on-11-13-2016k.jpg") ;
+    background-position: center;
+    background-size: cover;
+    color: white;
+    min-height: 400px;
+    background-attachment: fixed;
+}
+
+.jumbotron2 {
+    background-image: none;
+    height: 650px;
+    color: red;
+    text-align: center; 
+    font-family: 'Pirata One', cursive; 
+    padding-top: 2%;  
+}
+
+.jumbotron3 {
+    background-image: none;
+    color: black
+}
