@@ -58,7 +58,8 @@ h2 {
 
 .jumbotron3 {
     background-image: none;
-    color: black
+    color: black;
+    min-height: 0px ;
 }
 
 .indent {
